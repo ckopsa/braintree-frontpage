@@ -2,6 +2,7 @@
   "name": "webpack",
   "description": "Include Bootstrap's source Sass and individual JavaScript plugins with Webpack.",
   "version": "0.0.0",
+  "homepage": "https://coljamkop.github.io/braintree-frontpage",
   "private": true,
   "repository": "twbs/examples",
   "license": "MIT",
